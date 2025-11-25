@@ -1,0 +1,29 @@
+# Environment Variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak
+venv.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+study_guardian.log
+
+# Mac
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Local Data
+memory_bank.json
+*.pdf
+!sample.pdf

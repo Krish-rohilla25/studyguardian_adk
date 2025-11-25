@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+google-generativeai
+pypdf
+chromadb
+python-dotenv
+termcolor
+tabulate
+importlib-metadata>=4.4; python_version < "3.10"
